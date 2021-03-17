@@ -371,5 +371,5 @@ if __name__=="__main__":
      ikeh_ikeh_kimochi()
      kontol()
      revan_129()
-     revan129()
+     kontol()
 
